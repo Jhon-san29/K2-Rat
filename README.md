@@ -451,12 +451,16 @@ This software is provided for EDUCATIONAL PURPOSES ONLY.
 
 ---
 
-🤝 Support & Contact
+## 🤝 Support & Contact
 
-Contact Information
-Telegram @k2takeNgo
-Admin @Grey_Carter
-Issues GitHub Issues
+* **Price:** $7 / Month
+
+| Role | Contact Link |
+| :--- | :--- |
+| **Telegram** | [<img src="https://img.shields.io/badge/Telegram-@k2takeNgo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/k2takeNgo) |
+| **Admin** | [<img src="https://img.shields.io/badge/Admin-@Grey__Carter-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Grey_Carter) |
+| **Issues** | [<img src="https://img.shields.io/badge/Report-GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white" />](../../issues) |
+
 
 ---
 
