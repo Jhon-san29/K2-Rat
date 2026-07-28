@@ -1,4 +1,8 @@
 📱 K2_RAT - Complete Documentation
+<p align="center">
+  <img src="images/k2logo.png" alt="K2 Logo" width="180" style="border-radius: 50%;">
+</p>
+
 
 ⚠️ DISCLAIMER
 
