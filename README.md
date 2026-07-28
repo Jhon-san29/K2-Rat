@@ -68,12 +68,14 @@ Get Telegram Bot Token: Talk to @BotFather on Telegram
 
 📸 Main Interface
 
-images/functions.png
+![Bot's functions](images/functions.png)
+
 Figure 1: K2_RAT Telegram Bot Main Interface
 
 🎯 Target Device Selection
 
-images/targetappscree.png
+![Target's App Screen](images/targetappscreen.png)
+
 Figure 2: Device Selection and Available Actions
 
 📋 Main Menu Options
